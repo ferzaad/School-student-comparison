@@ -1,0 +1,6 @@
+
+Findings
+
+* Two schools (GP,MS)totalling 395 data points 
+*Children's mother with job in health have superior attributes, hence best erformers
+* Upon comparing grades GP sudents outperform MS hence we can say GP has better quality education being provided
